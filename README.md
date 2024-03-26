@@ -7,7 +7,7 @@
 
 ### Sobre
 
-Desenvolvedor FullStack a mais de 1 ano. Tenho experiência em diversas linguagens.
+Desenvolvedor FullStack a 2 anos. Tenho experiência em diversas linguagens.
 
 Formado pela Universidade Cruzeiro do Sul (UNICSUL) no curso de Ciência da Computação.
 
@@ -16,6 +16,7 @@ Experiência:
 * Desenvolvedor FullStack - Estágio;
 * Desenvolvedor FullStack - Junior;
 * Desenvolvedor Power Plataform - Junior;
+* Desenvolvedor FrontEnd;
 
 Principais linguagens:
 

@@ -7,22 +7,25 @@
 
 ### Sobre
 
-Desenvolvedor FullStack a 2 anos. Tenho experiência em diversas linguagens.
+Desenvolvedor FullStack a 3 anos. Tenho experiência em diversas linguagens.
 
 Formado pela Universidade Cruzeiro do Sul (UNICSUL) no curso de Ciência da Computação.
 
 Experiência:
 
-* Desenvolvedor FullStack - Estágio;
-* Desenvolvedor FullStack - Junior;
-* Desenvolvedor Power Plataform - Junior;
-* Desenvolvedor FrontEnd;
+* Desenvolvedor FullStack - Pleno - Sipremo;
+* Desenvolvedor FrontEnd - Pleno - Sipremo;
+* * Desenvolvedor Power Plataform - Junior;
+* * Desenvolvedor FullStack - Junior;
+* * Desenvolvedor FullStack - Estágio;
 
 Principais linguagens:
 
 * JavaScript;
 * TypeScript;
 * NodeJS;
+* Python;
+* MongoDB
 
 ---
 

@@ -15,9 +15,9 @@ Experiência:
 
 * Desenvolvedor FullStack - Pleno - Sipremo;
 * Desenvolvedor FrontEnd - Pleno - Sipremo;
-* * Desenvolvedor Power Plataform - Junior;
-* * Desenvolvedor FullStack - Junior;
-* * Desenvolvedor FullStack - Estágio;
+* Desenvolvedor Power Plataform - Junior;
+* Desenvolvedor FullStack - Junior;
+* Desenvolvedor FullStack - Estágio;
 
 Principais linguagens:
 

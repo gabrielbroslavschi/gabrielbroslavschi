@@ -28,18 +28,6 @@ Principais linguagens:
 * Python;
 * MongoDB
 
----
-
-### Estatísticas Sobre os Repositórios Públicos
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbroslavschi&show_icons=true&theme=radical)
-
-<div align="left">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielbroslavschi&layout=compact&langs_count=12&theme=radical&hide=Ruby"/>
-</div>
-
-<i>Obs: As informações demonstradas no gráfico, são relacionadas aos repositórios públicos.</i>
 
 ---
 

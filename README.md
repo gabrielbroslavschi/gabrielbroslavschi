@@ -1,4 +1,4 @@
-### Olá! Sou o Gabriel Broslavschi, bacharel em Ciência da Computação e Desenvolvedor FullStack!👋
+ ### Olá! Sou o Gabriel Broslavschi, bacharel em Ciência da Computação e Desenvolvedor FullStack!👋
 
 ### Entre em contato comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-broslavschi/)  [![Portfólio](https://img.shields.io/badge/Portfolio-YourPortfolioColorHere?style=for-the-badge)](https://gabrielbroslavschideveloper.netlify.app)
@@ -13,11 +13,12 @@ Formado pela Universidade Cruzeiro do Sul (UNICSUL) no curso de Ciência da Comp
 
 Experiência:
 
+* Desenvolvedor FullStack - Senior - Vision Cybersecurity;
 * Desenvolvedor FullStack - Pleno - Sipremo;
 * Desenvolvedor FrontEnd - Pleno - Sipremo;
-* Desenvolvedor Power Plataform - Junior;
-* Desenvolvedor FullStack - Junior;
-* Desenvolvedor FullStack - Estágio;
+* Desenvolvedor Power Plataform - Junior - Siplan;
+* Desenvolvedor FullStack - Junior - Directy;
+* Desenvolvedor FullStack - Estágio - Directy;
 
 Principais linguagens:
 
